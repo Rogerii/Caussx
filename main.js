@@ -14,7 +14,7 @@ let { spawnSync } = require('child_process')
 let WAConnection = simple.WAConnection(_WAConnection)
 
 
-global.owner = ['6283856085455@s.whatsapp.net'] // Put your number here
+global.owner = ['5535992755372@s.whatsapp.net'] // Put your number here
 global.mods = ['6283856085455@s.whatsapp.net'] // Want some help?
 global.prems = ['6283856085455@s.whatsapp.net'] // Premium user has unlimited limit
 global.APIs = { // API Prefix

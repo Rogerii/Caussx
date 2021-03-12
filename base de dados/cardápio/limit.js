@@ -3,7 +3,7 @@ const limit = (prefix, botName, ownerName) => {
 「 *${botName}* 」
 
 ◪ *INFO*
-  ❏ Prefix: 「  ${prefix}  」
+  ❏ Prefix: 「 * ${prefix} * 」
   ❏ Creator: ROGÉRIO ÁVILA 
   ❏ Version: 0.0.4
 ◪ *ABOUT*

@@ -1,6 +1,6 @@
 const limit = (prefix, botName, ownerName) => {
         return `
-「 *${botName}* 」
+「 *${Bot Rogério Ávila}* 」
 
 ◪ *INFO*
   ❏ Prefix: 「 * ${prefix} * 」
